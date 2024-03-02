@@ -9,7 +9,7 @@ class Solution {
     }
 
     public static void main(String args[]) {
-        int[] nums = {-4, -1, 0, 3, 10};
+        int[] nums = {};
         int[] result = sortedSquares(nums);
         // Print the result or perform further operations
         for (int num : result) {
