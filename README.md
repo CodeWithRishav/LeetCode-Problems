@@ -32,3 +32,15 @@ If you have a better solution or want to add explanations to existing ones, feel
 Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/codewithrishav/). I'm open to discussions, collaborations, or just a friendly chat about coding and technology.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1063-best-sightseeing-pair](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1063-best-sightseeing-pair](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
+<!---LeetCode Topics End-->
