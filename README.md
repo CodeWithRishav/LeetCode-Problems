@@ -38,9 +38,11 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
 <!---LeetCode Topics End-->
