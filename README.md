@@ -53,5 +53,10 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
