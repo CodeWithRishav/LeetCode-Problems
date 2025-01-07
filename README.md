@@ -41,6 +41,7 @@ Happy Coding! 🚀
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
+| [1524-string-matching-in-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -57,6 +58,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -80,4 +82,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
