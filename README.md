@@ -53,6 +53,7 @@ Happy Coding! 🚀
 | [2465-shifting-letters-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -149,6 +150,7 @@ Happy Coding! 🚀
 | [1396-count-servers-that-communicate](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Happy Coding! 🚀
 | [0407-trapping-rain-water-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -178,10 +181,12 @@ Happy Coding! 🚀
 | [1396-count-servers-that-communicate](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
