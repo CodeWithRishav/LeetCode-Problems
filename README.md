@@ -49,6 +49,7 @@ Happy Coding! 🚀
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
