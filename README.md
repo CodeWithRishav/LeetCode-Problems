@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [2465-shifting-letters-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -223,6 +225,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
