@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -193,6 +194,7 @@ Happy Coding! 🚀
 | [1502-construct-k-palindrome-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
@@ -351,4 +353,8 @@ Happy Coding! 🚀
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3483-alternating-groups-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
