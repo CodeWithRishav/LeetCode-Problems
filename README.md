@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -97,6 +98,7 @@ Happy Coding! 🚀
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2562-count-ways-to-build-good-strings) |
 ## String
 |  |
