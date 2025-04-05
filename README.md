@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -166,6 +167,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -318,6 +320,7 @@ Happy Coding! 🚀
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
@@ -333,6 +336,7 @@ Happy Coding! 🚀
 | [1160-letter-tile-possibilities](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -379,4 +383,12 @@ Happy Coding! 🚀
 | [2665-minimum-time-to-repair-cars](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
