@@ -38,6 +38,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -93,6 +94,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
@@ -292,6 +294,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -317,6 +320,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
