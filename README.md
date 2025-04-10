@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2562-count-ways-to-build-good-strings) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Happy Coding! 🚀
 | [2456-construct-smallest-number-from-di-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -332,6 +334,7 @@ Happy Coding! 🚀
 | [2649-count-total-number-of-colored-cells](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Data Stream
 |  |
 | ------- |
