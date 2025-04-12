@@ -168,6 +168,7 @@ Happy Coding! 🚀
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3548-find-the-count-of-good-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
@@ -336,6 +337,7 @@ Happy Coding! 🚀
 | [2998-count-symmetric-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 ## Data Stream
 |  |
 | ------- |
@@ -397,9 +399,11 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3548-find-the-count-of-good-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
