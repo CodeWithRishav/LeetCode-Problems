@@ -64,6 +64,7 @@ Happy Coding! 🚀
 | [2107-find-unique-binary-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
