@@ -114,6 +114,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0952-word-subsets](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
