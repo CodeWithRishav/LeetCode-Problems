@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [2681-put-marbles-in-bags](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -308,6 +309,7 @@ Happy Coding! 🚀
 | [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
@@ -385,6 +387,7 @@ Happy Coding! 🚀
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Number Theory
 |  |
@@ -405,6 +408,7 @@ Happy Coding! 🚀
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Combinatorics
 |  |
