@@ -41,6 +41,7 @@ Happy Coding! 🚀
 | [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0797-rabbits-in-forest](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0952-word-subsets) |
@@ -155,6 +156,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0952-word-subsets) |
@@ -208,6 +210,7 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -335,6 +338,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
