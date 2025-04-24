@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -179,6 +180,7 @@ Happy Coding! 🚀
 | [2626-count-the-number-of-good-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3548-find-the-count-of-good-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
@@ -409,6 +411,7 @@ Happy Coding! 🚀
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
