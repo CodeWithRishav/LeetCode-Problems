@@ -63,6 +63,7 @@ Happy Coding! 🚀
 | [1927-maximum-ascending-subarray-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2509-minimize-xor) |
@@ -324,6 +326,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -429,6 +432,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -468,9 +472,11 @@ Happy Coding! 🚀
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
