@@ -108,6 +108,7 @@ Happy Coding! 🚀
 | [3483-alternating-groups-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Dynamic Programming
@@ -284,6 +285,7 @@ Happy Coding! 🚀
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -294,6 +296,7 @@ Happy Coding! 🚀
 | [2681-put-marbles-in-bags](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -303,11 +306,13 @@ Happy Coding! 🚀
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Depth-First Search
 |  |
 | ------- |
