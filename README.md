@@ -38,6 +38,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -351,6 +352,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -438,6 +440,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
