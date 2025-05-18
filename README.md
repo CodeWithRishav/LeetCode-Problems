@@ -127,6 +127,7 @@ Happy Coding! 🚀
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2562-count-ways-to-build-good-strings) |
