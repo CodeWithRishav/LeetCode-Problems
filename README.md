@@ -38,6 +38,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
@@ -185,6 +186,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0797-rabbits-in-forest](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -314,6 +316,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
