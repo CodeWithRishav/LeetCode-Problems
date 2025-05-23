@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -135,6 +136,7 @@ Happy Coding! 🚀
 | [2415-count-the-number-of-ideal-arrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2562-count-ways-to-build-good-strings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
@@ -226,6 +228,7 @@ Happy Coding! 🚀
 | [2533-bitwise-xor-of-all-pairings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## String Matching
 |  |
 | ------- |
@@ -255,6 +258,7 @@ Happy Coding! 🚀
 | [2456-construct-smallest-number-from-di-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Counting
 |  |
 | ------- |
@@ -367,6 +371,7 @@ Happy Coding! 🚀
 | [2681-put-marbles-in-bags](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
@@ -434,6 +439,7 @@ Happy Coding! 🚀
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
