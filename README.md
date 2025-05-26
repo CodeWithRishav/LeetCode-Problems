@@ -132,6 +132,7 @@ Happy Coding! 🚀
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -204,6 +205,7 @@ Happy Coding! 🚀
 | [1500-count-largest-group](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -270,6 +272,7 @@ Happy Coding! 🚀
 | [1396-count-servers-that-communicate](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2448-count-number-of-bad-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -304,6 +307,7 @@ Happy Coding! 🚀
 | [0820-find-eventual-safe-states](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -361,6 +365,7 @@ Happy Coding! 🚀
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Sorting
 |  |
@@ -531,4 +536,8 @@ Happy Coding! 🚀
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
