@@ -300,6 +300,7 @@ Happy Coding! 🚀
 | [1558-course-schedule-iv](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
 | ------- |
@@ -353,6 +354,7 @@ Happy Coding! 🚀
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
 | ------- |
@@ -448,6 +450,7 @@ Happy Coding! 🚀
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
