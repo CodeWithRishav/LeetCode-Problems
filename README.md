@@ -174,6 +174,7 @@ Happy Coding! 🚀
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Happy Coding! 🚀
 | [2448-count-number-of-bad-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
 |  |
 | ------- |
@@ -438,6 +441,7 @@ Happy Coding! 🚀
 | [3548-find-the-count-of-good-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Data Stream
 |  |
 | ------- |
