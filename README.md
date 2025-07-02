@@ -38,6 +38,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
@@ -123,6 +124,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0368-largest-divisible-subset](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0806-domino-and-tromino-tiling](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0806-domino-and-tromino-tiling) |
@@ -341,6 +343,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
