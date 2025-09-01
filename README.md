@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1917-maximum-average-pass-ratio](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
@@ -266,6 +267,7 @@ Happy Coding! 🚀
 | [0797-rabbits-in-forest](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
+| [1917-maximum-average-pass-ratio](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -333,6 +335,7 @@ Happy Coding! 🚀
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1917-maximum-average-pass-ratio](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2434-design-a-number-container-system](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
