@@ -124,6 +124,7 @@ Happy Coding! 🚀
 | [3639-zero-array-transformation-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +247,7 @@ Happy Coding! 🚀
 | [2792-neighboring-bitwise-xor](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## String Matching
 |  |
 | ------- |
@@ -458,6 +460,7 @@ Happy Coding! 🚀
 | [3548-find-the-count-of-good-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3830-find-closest-person) |
 ## Data Stream
