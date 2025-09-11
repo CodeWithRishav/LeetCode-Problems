@@ -177,6 +177,7 @@ Happy Coding! 🚀
 | [2456-construct-smallest-number-from-di-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -412,6 +413,7 @@ Happy Coding! 🚀
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
