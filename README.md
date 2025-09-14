@@ -49,6 +49,7 @@ Happy Coding! 🚀
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1063-best-sightseeing-pair) |
@@ -157,6 +158,7 @@ Happy Coding! 🚀
 | ------- |
 | [0038-count-and-say](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0952-word-subsets](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
@@ -212,6 +214,7 @@ Happy Coding! 🚀
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
