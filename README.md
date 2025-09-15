@@ -162,6 +162,7 @@ Happy Coding! 🚀
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -218,6 +219,7 @@ Happy Coding! 🚀
 | [1160-letter-tile-possibilities](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/CodeWithRishav/LeetCode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
